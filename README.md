@@ -1,9 +1,9 @@
 rooted-graphene OTA
 ===
 
-See [rooted-graphene](https://github.com/ZingyAwesome/rooted-graphene/) for more details.
+See [rooted-graphene](https://github.com/ZingyAwesome/rooted-graphene) for more details.
 
 This repo executes the builds for the actual OTAs.
 
 You can find the OTA server URLs here:  
-https://rooted-graphene.github.io/ota/
+https://zingyawesome.github.io/rooted-graphene-ota
