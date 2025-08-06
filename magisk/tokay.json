@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "full": {
+    "location_ota": "https://github.com/ZingyAwesome/rooted-graphene-ota/releases/download/2025080400/tokay-2025080400-dd4059f-magisk-canary-30100.zip",
+    "location_csig": "https://github.com/ZingyAwesome/rooted-graphene-ota/releases/download/2025080400/tokay-2025080400-dd4059f-magisk-canary-30100.zip.csig"
+  }
+}
