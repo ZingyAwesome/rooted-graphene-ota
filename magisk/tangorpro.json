@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/ZingyAwesome/rooted-graphene-ota/releases/download/2025080600/tangorpro-2025080600-5386efa-magisk-canary-30100.zip",
-    "location_csig": "https://github.com/ZingyAwesome/rooted-graphene-ota/releases/download/2025080600/tangorpro-2025080600-5386efa-magisk-canary-30100.zip.csig"
+    "location_ota": "https://github.com/ZingyAwesome/rooted-graphene-ota/releases/download/2025081400/tangorpro-2025081400-5386efa-magisk-canary-30100.zip",
+    "location_csig": "https://github.com/ZingyAwesome/rooted-graphene-ota/releases/download/2025081400/tangorpro-2025081400-5386efa-magisk-canary-30100.zip.csig"
   }
 }
