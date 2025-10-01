@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "full": {
+    "location_ota": "https://github.com/ZingyAwesome/rooted-graphene-ota/releases/download/2025092701/tokay-2025092701-b35f8f2-magisk-v29.0.zip",
+    "location_csig": "https://github.com/ZingyAwesome/rooted-graphene-ota/releases/download/2025092701/tokay-2025092701-b35f8f2-magisk-v29.0.zip.csig"
+  }
+}
